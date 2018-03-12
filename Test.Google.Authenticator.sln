@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Google.Authenticator", "Test.Google.Authenticator\Test.Google.Authenticator.csproj", "{506C0FBF-E4EF-408B-A3B9-C00FE1F703DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.Authenticator", "Google.Authenticator\Google.Authenticator.csproj", "{49FF7F73-624B-40B9-AEDB-13D5C52C4349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{506C0FBF-E4EF-408B-A3B9-C00FE1F703DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506C0FBF-E4EF-408B-A3B9-C00FE1F703DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506C0FBF-E4EF-408B-A3B9-C00FE1F703DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506C0FBF-E4EF-408B-A3B9-C00FE1F703DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FF7F73-624B-40B9-AEDB-13D5C52C4349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FF7F73-624B-40B9-AEDB-13D5C52C4349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FF7F73-624B-40B9-AEDB-13D5C52C4349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FF7F73-624B-40B9-AEDB-13D5C52C4349}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDBEBA51-5554-4467-AD5C-3D6F1030C70A}
+	EndGlobalSection
+EndGlobal
